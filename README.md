@@ -1,1 +1,1 @@
-Visit this site at https://MyDotBank.github.io/status/
+Visit this site at https://status.dotapp.ng
